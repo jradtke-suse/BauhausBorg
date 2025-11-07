@@ -8,3 +8,5 @@ A recurring antagonist in the Star Trek universe, known for their catchphrase, "
 If you have found yourself here, I can assume it was by chance or happenstance.  Regardless, this is just a place where I am collecting notes, docs, concepts, etc.. to form a larger "thing" later.
 
 
+This is what Gemini apparently thinks of my plan/idea
+![Bauhaus Borg Technology](Images/Gemini_Generated_Image_1xro5w1xro5w1xro.png)
