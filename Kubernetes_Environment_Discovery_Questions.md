@@ -2,7 +2,8 @@
 
 NOTE: WE/SUSE need to enter the information in this doc that we already know.
 
-Create the “t-shirt size” concept Ajay Tomar  
+Create the “t-shirt size” concept for AT - i.e. if you want to do deploy an application that requires X, you need to build Y to host it.
+
 ---
 
 ## **1\. Environment Overview & Scope**
